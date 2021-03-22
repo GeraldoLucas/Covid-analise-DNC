@@ -2,7 +2,7 @@
 Doenças Neurológicas Crônicas: análise dos dados em pacientes com Covid;
 
 
-Dicionário de Dados
+## Dicionário de Dados
 Esse arquivo csv possui 5 colunas. São elas:
 
 'ID_MUNICIP': Município Código (IBGE),
@@ -15,3 +15,4 @@ Esse arquivo csv possui 5 colunas. São elas:
 
 'CLASSI_FIN': Classificação final do caso ,
 
+'EVOLUCAO': Evolução do Caso,
