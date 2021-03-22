@@ -15,4 +15,6 @@ Esse arquivo csv possui 5 colunas. São elas:
 
 'CLASSI_FIN': Classificação final do caso ,
 
+'CRITERIO': Critério de Encerramento,
+
 'EVOLUCAO': Evolução do Caso,
